@@ -12,3 +12,5 @@ Program output is saved in three files:
 labp_V file contains potencial values in chosen points.
 labp_E file contains energy values in eV.
 labp_f file contains function values.
+
+Included MATLAB script and gui which was used to present data. It requires Matlab 2014b or higher.
